@@ -1,7 +1,6 @@
-# weather-app
 # Weather Application
 
-This is a Spring Boot application that provides weather information for a given city using the OpenWeatherMap API. The application exposes two endpoints: one for getting the geographical location (latitude and longitude) of a city and another for retrieving the weather information based on the city's coordinates.
+A Spring Boot application that provides weather information for a given city using the OpenWeatherMap API. The application exposes two endpoints: one for getting the geographical location (latitude and longitude) of a city and another for retrieving the weather information based on the city's coordinates.
 
 ## Features
 
